@@ -229,15 +229,6 @@ Secure Password Manager
 
 ---
 
-### 🔹 Word to PDF Converter
-
-- Laravel
-- LibreOffice
-- Queue
-- Docker
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
