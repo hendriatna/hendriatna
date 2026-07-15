@@ -75,6 +75,111 @@ I enjoy designing production-ready front-end or backend architectures capable of
 
 # 🚀 Featured Projects
 
+### 🔹 SSO System (Authentication Service)
+
+Production-ready backend built using Python DRF. Designed and engineered a centralized Single Sign-On (SSO) architecture, enabling seamless multi-platform authentication and integration across 
+ecosystem applications.
+
+Features
+
+- API Gateway
+- Authentication Service
+- JWT Authentication
+- Basic Authentication
+- Json Rest API 
+- User Service
+- Multi-platform Authentication
+- Redis
+- PostgreSQL
+
+---
+
+### 🔹 EduTech Platform (LuarSekolah)
+
+Production-ready backend built using Python DRF. Architected the backend infrastructure and base API frameworks for web and mobile platforms to handle scaling user traffic. integrated secure payment gateway solutions and real-time notification messaging workflows.
+
+Features
+
+- API Gateway
+- Authentication Service
+- User Service
+- Coin Service
+- Transaction Service
+- SPL & Webinar Class Service
+- JWT Authentication
+- Basic Authentication
+- GraphQl
+- Redis
+- Ratelimitter
+- Mysql
+
+---
+
+### 🔹 EduTech Platform (Japan Tech Carrer)
+
+Production-ready backend built using Python DRF. Architected and Built core backend API services from scratch, integrating secure third-party recruiting tools, payment processors, and strict endpoint access controls.
+
+Features
+
+- API Gateway
+- Authentication Service
+- User Service
+- Wallet Service
+- Transaction Service
+- Class Service
+- Referral Service
+- JWT Authentication
+- Basic Authentication
+- Google Workspace
+- Chatboot AI-Agent
+- GraphQl
+- Redis
+- Ratelimitter
+- Mysql
+
+---
+
+### 🔹 Inspirasi Berbagi ITB Platform API
+
+Architech and Built Production-ready backend using PHP CodeIgniter.
+
+Features
+
+- RESTful APIs
+- Integrated Internal ITB APIs for Authentication and Authorization
+- Donate (Transaction, History, Reporting) Service
+- JWT Authentication
+- Basic Authentication
+- Query Optimization and indexing
+- Logging and exception handling.
+- Ratelimitter
+- Mysql
+
+---
+
+### 🔹 Mobile and Web Banking System - OCBCNISP
+
+Production-ready backend using Java Spring Framework, Springboot. Engineered secure, high-availability transactional banking services for fund transfers, bill payments, telegraphic transfers, and time deposits under strict 
+compliance requirements.
+
+Features
+
+- RESTful APIs
+- Telegraphic Transfer Service
+- Payment & Transfer Service
+- Deposito Service
+- Beneficiary Service
+- Loan Service
+- Future Transfer Service
+- Recurring Service
+- User Service
+- JWT Authentication
+- Query Optimization and indexing
+- Ratelimitter
+- Oracle Database
+
+---
+
 ### 🔹 PPOB Microservices
 
 Production-ready backend built using Go.
