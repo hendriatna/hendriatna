@@ -157,6 +157,23 @@ Features
 
 ---
 
+### 🔹 Psikologimu Platform API & Admin Page
+
+Upgraded the application to a newer PHP version and modernized the CodeIgniter codebase..
+
+Features
+
+- RESTful APIs
+- Refactored legacy modules
+- Optimized backend performance
+- SQL query tuning and code optimization
+- Improved API reliability
+- Query Optimization and indexing
+- Logging and exception handling.
+- Mysql
+
+---
+
 ### 🔹 Mobile and Web Banking System - OCBCNISP
 
 Production-ready backend using Java Spring Framework, Springboot. Engineered secure, high-availability transactional banking services for fund transfers, bill payments, telegraphic transfers, and time deposits under strict 
