@@ -173,7 +173,11 @@ Features
 - Future Transfer Service
 - Recurring Service
 - User Service
+- History Service
+- Reporting Service
 - JWT Authentication
+- Jasper
+- Elixir
 - Query Optimization and indexing
 - Ratelimitter
 - Oracle Database
